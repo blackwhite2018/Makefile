@@ -19,6 +19,9 @@ cflags - translating warnings into errors
 ## commands
 
 all - build entry
+
 clean - remove object files
+
 fclean - remove entry file and use clean
+
 re - rebuild
